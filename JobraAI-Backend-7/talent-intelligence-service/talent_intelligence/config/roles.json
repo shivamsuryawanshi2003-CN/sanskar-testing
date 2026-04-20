@@ -1,0 +1,1058 @@
+{
+  "roles": [
+    {
+      "id": "1",
+      "title": "Backend Engineer",
+      "skills": [
+        "python",
+        "java",
+        "node.js",
+        "sql",
+        "rest api",
+        "microservices"
+      ],
+      "jd": "We are hiring a Backend Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, java, node.js, sql. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "2",
+      "title": "Frontend Engineer",
+      "skills": [
+        "javascript",
+        "typescript",
+        "react",
+        "css",
+        "html",
+        "state management"
+      ],
+      "jd": "We are hiring a Frontend Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as javascript, typescript, react, css. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "3",
+      "title": "Full Stack Engineer",
+      "skills": [
+        "javascript",
+        "typescript",
+        "react",
+        "node.js",
+        "sql",
+        "rest api"
+      ],
+      "jd": "We are hiring a Full Stack Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as javascript, typescript, react, node.js. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "4",
+      "title": "DevOps Engineer",
+      "skills": [
+        "linux",
+        "docker",
+        "kubernetes",
+        "ci/cd",
+        "terraform",
+        "monitoring"
+      ],
+      "jd": "We are hiring a DevOps Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as linux, docker, kubernetes, ci/cd. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "5",
+      "title": "Site Reliability Engineer",
+      "skills": [
+        "linux",
+        "docker",
+        "kubernetes",
+        "ci/cd",
+        "terraform",
+        "monitoring"
+      ],
+      "jd": "We are hiring a Site Reliability Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as linux, docker, kubernetes, ci/cd. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "6",
+      "title": "QA Engineer",
+      "skills": [
+        "python",
+        "sql",
+        "apis",
+        "git",
+        "debugging",
+        "testing"
+      ],
+      "jd": "We are hiring a QA Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, apis, git. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "7",
+      "title": "Automation Test Engineer",
+      "skills": [
+        "python",
+        "sql",
+        "apis",
+        "git",
+        "debugging",
+        "testing"
+      ],
+      "jd": "We are hiring a Automation Test Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, apis, git. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "8",
+      "title": "Data Analyst",
+      "skills": [
+        "excel",
+        "sql",
+        "power bi",
+        "tableau",
+        "reporting",
+        "analysis"
+      ],
+      "jd": "We are hiring a Data Analyst who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as excel, sql, power bi, tableau. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "9",
+      "title": "Business Analyst",
+      "skills": [
+        "requirements gathering",
+        "sql",
+        "process mapping",
+        "stakeholder communication",
+        "documentation",
+        "analysis"
+      ],
+      "jd": "We are hiring a Business Analyst who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as requirements gathering, sql, process mapping, stakeholder communication. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "10",
+      "title": "Product Analyst",
+      "skills": [
+        "excel",
+        "sql",
+        "power bi",
+        "tableau",
+        "reporting",
+        "analysis"
+      ],
+      "jd": "We are hiring a Product Analyst who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as excel, sql, power bi, tableau. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "11",
+      "title": "Data Scientist",
+      "skills": [
+        "python",
+        "machine learning",
+        "statistics",
+        "sql",
+        "data visualization",
+        "pandas"
+      ],
+      "jd": "We are hiring a Data Scientist who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, machine learning, statistics, sql. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "12",
+      "title": "Machine Learning Engineer",
+      "skills": [
+        "python",
+        "machine learning",
+        "tensorflow",
+        "pytorch",
+        "mlops",
+        "feature engineering"
+      ],
+      "jd": "We are hiring a Machine Learning Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, machine learning, tensorflow, pytorch. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "13",
+      "title": "AI Engineer",
+      "skills": [
+        "python",
+        "llm",
+        "prompt engineering",
+        "nlp",
+        "api integration",
+        "evaluation"
+      ],
+      "jd": "We are hiring a AI Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, llm, prompt engineering, nlp. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "14",
+      "title": "MLOps Engineer",
+      "skills": [
+        "python",
+        "sql",
+        "apis",
+        "git",
+        "debugging",
+        "testing"
+      ],
+      "jd": "We are hiring a MLOps Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, apis, git. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "15",
+      "title": "Prompt Engineer",
+      "skills": [
+        "python",
+        "llm",
+        "prompt engineering",
+        "nlp",
+        "api integration",
+        "evaluation"
+      ],
+      "jd": "We are hiring a Prompt Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, llm, prompt engineering, nlp. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "16",
+      "title": "NLP Engineer",
+      "skills": [
+        "python",
+        "llm",
+        "prompt engineering",
+        "nlp",
+        "api integration",
+        "evaluation"
+      ],
+      "jd": "We are hiring a NLP Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, llm, prompt engineering, nlp. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "17",
+      "title": "Computer Vision Engineer",
+      "skills": [
+        "python",
+        "sql",
+        "apis",
+        "git",
+        "debugging",
+        "testing"
+      ],
+      "jd": "We are hiring a Computer Vision Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, apis, git. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "18",
+      "title": "Cloud Engineer",
+      "skills": [
+        "cloud",
+        "iam",
+        "networking",
+        "terraform",
+        "monitoring",
+        "containers"
+      ],
+      "jd": "We are hiring a Cloud Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as cloud, iam, networking, terraform. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "19",
+      "title": "AWS Cloud Engineer",
+      "skills": [
+        "cloud",
+        "iam",
+        "networking",
+        "terraform",
+        "monitoring",
+        "containers"
+      ],
+      "jd": "We are hiring a AWS Cloud Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as cloud, iam, networking, terraform. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "20",
+      "title": "Azure Cloud Engineer",
+      "skills": [
+        "cloud",
+        "iam",
+        "networking",
+        "terraform",
+        "monitoring",
+        "containers"
+      ],
+      "jd": "We are hiring a Azure Cloud Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as cloud, iam, networking, terraform. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "21",
+      "title": "GCP Cloud Engineer",
+      "skills": [
+        "cloud",
+        "iam",
+        "networking",
+        "terraform",
+        "monitoring",
+        "containers"
+      ],
+      "jd": "We are hiring a GCP Cloud Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as cloud, iam, networking, terraform. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "22",
+      "title": "Platform Engineer",
+      "skills": [
+        "linux",
+        "docker",
+        "kubernetes",
+        "ci/cd",
+        "terraform",
+        "monitoring"
+      ],
+      "jd": "We are hiring a Platform Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as linux, docker, kubernetes, ci/cd. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "23",
+      "title": "Security Engineer",
+      "skills": [
+        "security",
+        "incident response",
+        "vulnerability assessment",
+        "siem",
+        "network security",
+        "risk management"
+      ],
+      "jd": "We are hiring a Security Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as security, incident response, vulnerability assessment, siem. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "24",
+      "title": "Cybersecurity Analyst",
+      "skills": [
+        "excel",
+        "sql",
+        "power bi",
+        "tableau",
+        "reporting",
+        "analysis"
+      ],
+      "jd": "We are hiring a Cybersecurity Analyst who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as excel, sql, power bi, tableau. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "25",
+      "title": "SOC Analyst",
+      "skills": [
+        "security",
+        "incident response",
+        "vulnerability assessment",
+        "siem",
+        "network security",
+        "risk management"
+      ],
+      "jd": "We are hiring a SOC Analyst who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as security, incident response, vulnerability assessment, siem. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "26",
+      "title": "Penetration Tester",
+      "skills": [
+        "security",
+        "incident response",
+        "vulnerability assessment",
+        "siem",
+        "network security",
+        "risk management"
+      ],
+      "jd": "We are hiring a Penetration Tester who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as security, incident response, vulnerability assessment, siem. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "27",
+      "title": "Network Engineer",
+      "skills": [
+        "python",
+        "sql",
+        "apis",
+        "git",
+        "debugging",
+        "testing"
+      ],
+      "jd": "We are hiring a Network Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, apis, git. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "28",
+      "title": "System Administrator",
+      "skills": [
+        "communication",
+        "problem solving",
+        "documentation"
+      ],
+      "jd": "We are hiring a System Administrator who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as communication, problem solving, documentation. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "29",
+      "title": "Database Administrator",
+      "skills": [
+        "sql",
+        "database tuning",
+        "backup and recovery",
+        "postgresql",
+        "mysql",
+        "performance optimization"
+      ],
+      "jd": "We are hiring a Database Administrator who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as sql, database tuning, backup and recovery, postgresql. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "30",
+      "title": "Data Engineer",
+      "skills": [
+        "python",
+        "sql",
+        "etl",
+        "airflow",
+        "spark",
+        "data modeling"
+      ],
+      "jd": "We are hiring a Data Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, etl, airflow. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "31",
+      "title": "Analytics Engineer",
+      "skills": [
+        "python",
+        "sql",
+        "apis",
+        "git",
+        "debugging",
+        "testing"
+      ],
+      "jd": "We are hiring a Analytics Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, apis, git. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "32",
+      "title": "BI Developer",
+      "skills": [
+        "sql",
+        "power bi",
+        "tableau",
+        "data modeling",
+        "dax",
+        "dashboards"
+      ],
+      "jd": "We are hiring a BI Developer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as sql, power bi, tableau, data modeling. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "33",
+      "title": "ETL Developer",
+      "skills": [
+        "sql",
+        "python",
+        "etl",
+        "data warehousing",
+        "airflow",
+        "data quality"
+      ],
+      "jd": "We are hiring a ETL Developer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as sql, python, etl, data warehousing. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "34",
+      "title": "Big Data Engineer",
+      "skills": [
+        "python",
+        "sql",
+        "etl",
+        "airflow",
+        "spark",
+        "data modeling"
+      ],
+      "jd": "We are hiring a Big Data Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, etl, airflow. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "35",
+      "title": "Software Engineer",
+      "skills": [
+        "python",
+        "sql",
+        "apis",
+        "git",
+        "debugging",
+        "testing"
+      ],
+      "jd": "We are hiring a Software Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, apis, git. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "36",
+      "title": "Java Developer",
+      "skills": [
+        "python",
+        "sql",
+        "git",
+        "rest api",
+        "docker",
+        "unit testing"
+      ],
+      "jd": "We are hiring a Java Developer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, git, rest api. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "37",
+      "title": "Python Developer",
+      "skills": [
+        "python",
+        "sql",
+        "git",
+        "rest api",
+        "docker",
+        "unit testing"
+      ],
+      "jd": "We are hiring a Python Developer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, git, rest api. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "38",
+      "title": "Node.js Developer",
+      "skills": [
+        "python",
+        "sql",
+        "git",
+        "rest api",
+        "docker",
+        "unit testing"
+      ],
+      "jd": "We are hiring a Node.js Developer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, git, rest api. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "39",
+      "title": "React Developer",
+      "skills": [
+        "javascript",
+        "typescript",
+        "react",
+        "css",
+        "html",
+        "state management"
+      ],
+      "jd": "We are hiring a React Developer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as javascript, typescript, react, css. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "40",
+      "title": "Angular Developer",
+      "skills": [
+        "javascript",
+        "typescript",
+        "react",
+        "css",
+        "html",
+        "state management"
+      ],
+      "jd": "We are hiring a Angular Developer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as javascript, typescript, react, css. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "41",
+      "title": "Mobile App Developer",
+      "skills": [
+        "python",
+        "sql",
+        "git",
+        "rest api",
+        "docker",
+        "unit testing"
+      ],
+      "jd": "We are hiring a Mobile App Developer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, git, rest api. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "42",
+      "title": "Android Developer",
+      "skills": [
+        "python",
+        "sql",
+        "git",
+        "rest api",
+        "docker",
+        "unit testing"
+      ],
+      "jd": "We are hiring a Android Developer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, git, rest api. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "43",
+      "title": "iOS Developer",
+      "skills": [
+        "python",
+        "sql",
+        "git",
+        "rest api",
+        "docker",
+        "unit testing"
+      ],
+      "jd": "We are hiring a iOS Developer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, git, rest api. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "44",
+      "title": "Flutter Developer",
+      "skills": [
+        "python",
+        "sql",
+        "git",
+        "rest api",
+        "docker",
+        "unit testing"
+      ],
+      "jd": "We are hiring a Flutter Developer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, git, rest api. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "45",
+      "title": "UI UX Designer",
+      "skills": [
+        "figma",
+        "wireframing",
+        "prototyping",
+        "user research",
+        "design systems",
+        "accessibility"
+      ],
+      "jd": "We are hiring a UI UX Designer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as figma, wireframing, prototyping, user research. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "46",
+      "title": "Product Designer",
+      "skills": [
+        "figma",
+        "wireframing",
+        "prototyping",
+        "user research",
+        "design systems",
+        "accessibility"
+      ],
+      "jd": "We are hiring a Product Designer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as figma, wireframing, prototyping, user research. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "47",
+      "title": "Graphic Designer",
+      "skills": [
+        "figma",
+        "wireframing",
+        "prototyping",
+        "user research",
+        "design systems",
+        "accessibility"
+      ],
+      "jd": "We are hiring a Graphic Designer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as figma, wireframing, prototyping, user research. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "48",
+      "title": "Product Manager",
+      "skills": [
+        "roadmapping",
+        "stakeholder management",
+        "experimentation",
+        "analytics",
+        "user stories",
+        "prioritization"
+      ],
+      "jd": "We are hiring a Product Manager who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as roadmapping, stakeholder management, experimentation, analytics. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "49",
+      "title": "Project Manager",
+      "skills": [
+        "planning",
+        "risk management",
+        "agile",
+        "stakeholder communication",
+        "delivery",
+        "reporting"
+      ],
+      "jd": "We are hiring a Project Manager who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as planning, risk management, agile, stakeholder communication. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "50",
+      "title": "Program Manager",
+      "skills": [
+        "planning",
+        "risk management",
+        "agile",
+        "stakeholder communication",
+        "delivery",
+        "reporting"
+      ],
+      "jd": "We are hiring a Program Manager who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as planning, risk management, agile, stakeholder communication. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "51",
+      "title": "Scrum Master",
+      "skills": [
+        "planning",
+        "risk management",
+        "agile",
+        "stakeholder communication",
+        "delivery",
+        "reporting"
+      ],
+      "jd": "We are hiring a Scrum Master who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as planning, risk management, agile, stakeholder communication. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "52",
+      "title": "Technical Writer",
+      "skills": [
+        "communication",
+        "problem solving",
+        "documentation"
+      ],
+      "jd": "We are hiring a Technical Writer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as communication, problem solving, documentation. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "53",
+      "title": "Solutions Architect",
+      "skills": [
+        "system design",
+        "cloud",
+        "apis",
+        "security",
+        "scalability",
+        "documentation"
+      ],
+      "jd": "We are hiring a Solutions Architect who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as system design, cloud, apis, security. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "54",
+      "title": "Enterprise Architect",
+      "skills": [
+        "system design",
+        "cloud",
+        "apis",
+        "security",
+        "scalability",
+        "documentation"
+      ],
+      "jd": "We are hiring a Enterprise Architect who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as system design, cloud, apis, security. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "55",
+      "title": "Blockchain Developer",
+      "skills": [
+        "python",
+        "sql",
+        "git",
+        "rest api",
+        "docker",
+        "unit testing"
+      ],
+      "jd": "We are hiring a Blockchain Developer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, git, rest api. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "56",
+      "title": "Game Developer",
+      "skills": [
+        "python",
+        "sql",
+        "git",
+        "rest api",
+        "docker",
+        "unit testing"
+      ],
+      "jd": "We are hiring a Game Developer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, git, rest api. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "57",
+      "title": "Embedded Systems Engineer",
+      "skills": [
+        "python",
+        "sql",
+        "apis",
+        "git",
+        "debugging",
+        "testing"
+      ],
+      "jd": "We are hiring a Embedded Systems Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, apis, git. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "58",
+      "title": "IoT Engineer",
+      "skills": [
+        "python",
+        "sql",
+        "apis",
+        "git",
+        "debugging",
+        "testing"
+      ],
+      "jd": "We are hiring a IoT Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, apis, git. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "59",
+      "title": "Robotics Engineer",
+      "skills": [
+        "python",
+        "sql",
+        "apis",
+        "git",
+        "debugging",
+        "testing"
+      ],
+      "jd": "We are hiring a Robotics Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, apis, git. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "60",
+      "title": "SAP Consultant",
+      "skills": [
+        "analysis",
+        "stakeholder communication",
+        "documentation",
+        "problem solving",
+        "process improvement",
+        "presentation"
+      ],
+      "jd": "We are hiring a SAP Consultant who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as analysis, stakeholder communication, documentation, problem solving. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "61",
+      "title": "Salesforce Developer",
+      "skills": [
+        "python",
+        "sql",
+        "git",
+        "rest api",
+        "docker",
+        "unit testing"
+      ],
+      "jd": "We are hiring a Salesforce Developer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, git, rest api. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "62",
+      "title": "CRM Analyst",
+      "skills": [
+        "excel",
+        "sql",
+        "power bi",
+        "tableau",
+        "reporting",
+        "analysis"
+      ],
+      "jd": "We are hiring a CRM Analyst who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as excel, sql, power bi, tableau. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "63",
+      "title": "ERP Consultant",
+      "skills": [
+        "analysis",
+        "stakeholder communication",
+        "documentation",
+        "problem solving",
+        "process improvement",
+        "presentation"
+      ],
+      "jd": "We are hiring a ERP Consultant who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as analysis, stakeholder communication, documentation, problem solving. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "64",
+      "title": "Digital Marketing Specialist",
+      "skills": [
+        "strategy",
+        "reporting",
+        "optimization",
+        "communication",
+        "execution",
+        "analysis"
+      ],
+      "jd": "We are hiring a Digital Marketing Specialist who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as strategy, reporting, optimization, communication. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "65",
+      "title": "SEO Specialist",
+      "skills": [
+        "strategy",
+        "reporting",
+        "optimization",
+        "communication",
+        "execution",
+        "analysis"
+      ],
+      "jd": "We are hiring a SEO Specialist who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as strategy, reporting, optimization, communication. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "66",
+      "title": "Content Strategist",
+      "skills": [
+        "communication",
+        "problem solving",
+        "documentation"
+      ],
+      "jd": "We are hiring a Content Strategist who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as communication, problem solving, documentation. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "67",
+      "title": "Customer Success Manager",
+      "skills": [
+        "stakeholder management",
+        "roadmapping",
+        "planning",
+        "communication",
+        "execution",
+        "metrics"
+      ],
+      "jd": "We are hiring a Customer Success Manager who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as stakeholder management, roadmapping, planning, communication. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "68",
+      "title": "Technical Support Engineer",
+      "skills": [
+        "python",
+        "sql",
+        "apis",
+        "git",
+        "debugging",
+        "testing"
+      ],
+      "jd": "We are hiring a Technical Support Engineer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as python, sql, apis, git. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "69",
+      "title": "IT Support Specialist",
+      "skills": [
+        "strategy",
+        "reporting",
+        "optimization",
+        "communication",
+        "execution",
+        "analysis"
+      ],
+      "jd": "We are hiring a IT Support Specialist who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as strategy, reporting, optimization, communication. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "70",
+      "title": "Operations Analyst",
+      "skills": [
+        "excel",
+        "sql",
+        "power bi",
+        "tableau",
+        "reporting",
+        "analysis"
+      ],
+      "jd": "We are hiring a Operations Analyst who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as excel, sql, power bi, tableau. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "71",
+      "title": "Supply Chain Analyst",
+      "skills": [
+        "excel",
+        "sql",
+        "power bi",
+        "tableau",
+        "reporting",
+        "analysis"
+      ],
+      "jd": "We are hiring a Supply Chain Analyst who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as excel, sql, power bi, tableau. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "72",
+      "title": "Financial Analyst",
+      "skills": [
+        "excel",
+        "financial modeling",
+        "reporting",
+        "forecasting",
+        "analysis",
+        "reconciliation"
+      ],
+      "jd": "We are hiring a Financial Analyst who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as excel, financial modeling, reporting, forecasting. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "73",
+      "title": "Accountant",
+      "skills": [
+        "excel",
+        "financial modeling",
+        "reporting",
+        "forecasting",
+        "analysis",
+        "reconciliation"
+      ],
+      "jd": "We are hiring a Accountant who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as excel, financial modeling, reporting, forecasting. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "74",
+      "title": "HR Analyst",
+      "skills": [
+        "sourcing",
+        "screening",
+        "interviewing",
+        "stakeholder management",
+        "ats",
+        "reporting"
+      ],
+      "jd": "We are hiring a HR Analyst who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as sourcing, screening, interviewing, stakeholder management. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "75",
+      "title": "Recruiter",
+      "skills": [
+        "sourcing",
+        "screening",
+        "interviewing",
+        "stakeholder management",
+        "ats",
+        "reporting"
+      ],
+      "jd": "We are hiring a Recruiter who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as sourcing, screening, interviewing, stakeholder management. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "76",
+      "title": "Talent Acquisition Specialist",
+      "skills": [
+        "sourcing",
+        "screening",
+        "interviewing",
+        "stakeholder management",
+        "ats",
+        "reporting"
+      ],
+      "jd": "We are hiring a Talent Acquisition Specialist who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as sourcing, screening, interviewing, stakeholder management. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "77",
+      "title": "Legal Analyst",
+      "skills": [
+        "excel",
+        "sql",
+        "power bi",
+        "tableau",
+        "reporting",
+        "analysis"
+      ],
+      "jd": "We are hiring a Legal Analyst who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as excel, sql, power bi, tableau. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "78",
+      "title": "Research Analyst",
+      "skills": [
+        "excel",
+        "sql",
+        "power bi",
+        "tableau",
+        "reporting",
+        "analysis"
+      ],
+      "jd": "We are hiring a Research Analyst who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as excel, sql, power bi, tableau. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "79",
+      "title": "Consultant",
+      "skills": [
+        "analysis",
+        "stakeholder communication",
+        "documentation",
+        "problem solving",
+        "process improvement",
+        "presentation"
+      ],
+      "jd": "We are hiring a Consultant who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as analysis, stakeholder communication, documentation, problem solving. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "80",
+      "title": "Instructional Designer",
+      "skills": [
+        "figma",
+        "wireframing",
+        "prototyping",
+        "user research",
+        "design systems",
+        "accessibility"
+      ],
+      "jd": "We are hiring a Instructional Designer who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as figma, wireframing, prototyping, user research. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "81",
+      "title": "Teacher",
+      "skills": [
+        "communication",
+        "problem solving",
+        "documentation"
+      ],
+      "jd": "We are hiring a Teacher who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as communication, problem solving, documentation. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    },
+    {
+      "id": "82",
+      "title": "Operations Manager",
+      "skills": [
+        "stakeholder management",
+        "roadmapping",
+        "planning",
+        "communication",
+        "execution",
+        "metrics"
+      ],
+      "jd": "We are hiring a Operations Manager who can deliver consistent results, work with cross-functional teams, communicate clearly, and use tools such as stakeholder management, roadmapping, planning, communication. The ideal candidate demonstrates ownership, measurable impact, strong execution, and clear documentation habits in projects or prior roles."
+    }
+  ]
+}

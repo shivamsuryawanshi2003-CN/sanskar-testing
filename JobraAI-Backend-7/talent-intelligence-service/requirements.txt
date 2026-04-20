@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai>=1.0.0
+pydantic
+streamlit
+requests
+python-multipart
+pdfplumber
+python-docx
+python-dotenv>=1.0.0

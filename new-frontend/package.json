@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --port 3000",
-    "dev:be": "cd ../backend && uvicorn main:app --host 127.0.0.1 --port 8000 --reload",
+    "dev:be": "cd ../JobraAI-Backend-7 && python -m uvicorn app:app --reload --host 127.0.0.1 --port 8000",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"

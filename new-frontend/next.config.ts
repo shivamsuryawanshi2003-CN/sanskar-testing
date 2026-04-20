@@ -1,5 +1,7 @@
 import type { NextConfig } from "next";
 
+/** Same-origin API proxy is implemented in `src/app/api-backend/[...path]/route.ts` (reliable multipart). */
+
 const nextConfig: NextConfig = {
   typescript: {
     ignoreBuildErrors: false,
